@@ -11,7 +11,7 @@ int main()
   while(e>0 && i<n){
     e-=a[i];
     k++;
-    if(e<0)break;
+    if(e<=0)break;
     e-=a[i];
     k++;
     i++;
