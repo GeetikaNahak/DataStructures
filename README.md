@@ -18,5 +18,5 @@ Features
 Tech Stack
 ----------
 
-- Programming Languages: C++, Java, Python  
+- Programming Languages: C, C++
 - Version Control: Git and GitHub
